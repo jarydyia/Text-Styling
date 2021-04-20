@@ -1,0 +1,21 @@
+h1{
+    background-color: black;
+    color: white;
+}
+
+span{
+    color: turquoise;
+}
+
+h2{
+    text-align: center;
+    background-color: violet;
+    color: whitesmoke;
+}
+
+h3 {
+    text-align: right;
+    text-decoration: underline;
+    background-color: teal;
+    color: turquoise;
+}
